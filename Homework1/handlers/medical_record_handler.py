@@ -39,18 +39,6 @@ class MedicalRecordHandler:
         except Exception as e:
             self._send_response(500, {'error': f'Error fetching medical records for patient: {str(e)}'})
 
-    def get_medical_records_for_disease(self):
-        try:
-            path = self.request_handler.path
-            disease_id = unquote(path.split('/')[-1])
-            medical_records = self.medical_record_repo.get_by_disease_id(disease_id)
-
-            if medical_records:
-                self._send_response(200, medical_records)
-            else:
-                self._send_response(404, {'error': 'No medical records found for this disease'})
-        except Exception as e:
-            self._send_response(500, {'error': f'Error fetching medical records for disease: {str(e)}'})
 
     def get_medical_records(self):
         medical_records = self.medical_record_repo.get_all()
@@ -82,7 +70,9 @@ class MedicalRecordHandler:
         new_medical_record = json.loads(post_data.decode('utf-8'))
 
         new_id, error = self.medical_record_repo.create(new_medical_record)
-        if error:
+        if ("Patient ID not found" in error) or ("Disease ID not found" in error) or ("Treatment ID not found" in error):
+            self._send_response(404, {'error': error})
+        elif error:
             self._send_response(400, {'error': error})
         else:
             self._send_response(201, {'message': 'Medical record created', 'id': new_id})

@@ -51,8 +51,13 @@ class AppointmentHandler:
         post_data = self.request_handler.rfile.read(content_length)
         new_appointment = json.loads(post_data.decode('utf-8'))
 
-        new_id = self.appointment_repo.create(new_appointment)
-        self._send_response(201, {'message': 'Appointment created', 'id': new_id})
+        new_id, error= self.appointment_repo.create(new_appointment)
+        if ("Patient ID not found" in error) or ("Doctor ID not found" in error):
+            self._send_response(404, {'error': error})
+        elif error:
+            self._send_response(400, {'error':error})
+        else:
+            self._send_response(201, {'message': 'Appointment created', 'id': new_id})
 
     def do_PUT(self):
         path = self.request_handler.path
@@ -62,11 +67,14 @@ class AppointmentHandler:
             put_data = self.request_handler.rfile.read(content_length)
             updated_appointment = json.loads(put_data.decode('utf-8'))
 
-            success = self.appointment_repo.update(appointment_id, updated_appointment)
+            success, error = self.appointment_repo.update(appointment_id, updated_appointment)
             if success:
                 self._send_response(200, {'message': 'Appointment updated'})
             else:
-                self._send_response(404, {'error': 'Appointment not found'})
+                if ("Patient ID not found" in error) or ("Doctor ID not found" in error) or ("Appointment ID not found" in error):
+                    self._send_response(404, {'error': error})
+                elif error:
+                    self._send_response(400, {'error': error})
 
     def do_DELETE(self):
         path = self.request_handler.path
