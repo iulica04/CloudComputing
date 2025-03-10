@@ -42,7 +42,6 @@ class MedicalRecordRepository:
         return result is not None
 
     def create(self, medical_record_data):
-        # Verificăm existența pacienților, bolilor și tratamentelor
         if not self._check_id_exists('patients', 'id', medical_record_data['patient_id']):
             return None, 'Patient ID not found'
         if not self._check_id_exists('diseases', 'id', medical_record_data['disease_id']):
@@ -63,7 +62,7 @@ class MedicalRecordRepository:
         return new_id, None
 
     def update(self, medical_record_id, medical_record_data):
-        # Verificăm existența pacienților, bolilor și tratamentelor
+        # validate the existence of patients, diseases, and treatments
         if not self._check_id_exists('patients', 'id', medical_record_data['patient_id']):
             return False, 'Patient ID not found'
         if not self._check_id_exists('diseases', 'id', medical_record_data['disease_id']):

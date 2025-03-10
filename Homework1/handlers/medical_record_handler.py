@@ -23,7 +23,7 @@ class MedicalRecordHandler:
             if 'patient' in path:
                 self.get_medical_records_for_patient()
             elif 'disease' in path:
-                self.get_medical_records_by_disease()  # Noua metodă de filtrare
+                self.get_medical_records_by_disease()
             else:
                 self.get_medical_record_by_id()
 
@@ -41,8 +41,8 @@ class MedicalRecordHandler:
 
     def get_medical_records_for_disease(self):
         try:
-            path_parts = self.request_handler.path.split('/')
-            disease_id = path_parts[-1]  # ID-ul bolii (la finalul URL-ului)
+            path = self.request_handler.path
+            disease_id = unquote(path.split('/')[-1])
             medical_records = self.medical_record_repo.get_by_disease_id(disease_id)
 
             if medical_records:

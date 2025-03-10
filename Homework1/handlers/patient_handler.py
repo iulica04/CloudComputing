@@ -74,7 +74,7 @@ class PatientHandler:
         try:
             path = self.request_handler.path
             if path.startswith('/patients/'):
-                patient_id = path.split('/')[-1]
+                patient_id = unquote(path.split('/')[-1])
                 success = self.patient_repo.delete(patient_id)
                 if success:
                     self._send_response(200, {'message': 'Patient deleted'})
