@@ -20,7 +20,19 @@ class AppointmentHandler:
         if path == '/appointments':
             self.get_appointments()
         elif path.startswith('/appointments/'):
-            self.get_appointment_by_id()
+            if 'patient' in path:
+                self.get_appointments_for_patient()
+            else:
+                self.get_appointment_by_id()
+
+    def get_appointments_for_patient(self):
+        path = self.request_handler.path
+        patient_id = unquote(path.split('/')[-1])
+        appointments = self.appointment_repo.get_by_patient_id(patient_id)
+        if appointments:
+            self._send_response(200, appointments)
+        else:
+            self._send_response(404, {'error': 'No appointments found for this patient'})
 
     def get_appointments(self):
         appointments = self.appointment_repo.get_all()

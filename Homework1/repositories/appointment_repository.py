@@ -18,6 +18,14 @@ class AppointmentRepository:
         conn.close()
         return dict(appointment) if appointment else None
 
+    def get_by_patient_id(self, patient_id):
+        conn = get_db_connection()
+        cursor = conn.cursor()
+        cursor.execute('SELECT * FROM appointments WHERE patient_id = ? ORDER BY appointment_date DESC ', (patient_id,))
+        appointments = cursor.fetchall()
+        conn.close()
+        return [dict(appointment) for appointment in appointments] if appointments else None
+
     def create(self, appointment_data):
         conn = get_db_connection()
         cursor = conn.cursor()
