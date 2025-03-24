@@ -1,1 +1,9 @@
 /.venv/
+ *.env
+appsettings.json
+credentials.json
+service-account.json
+*.db
+*.db-shm
+*.db-wal
+token.json

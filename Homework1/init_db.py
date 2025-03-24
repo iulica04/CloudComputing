@@ -86,6 +86,20 @@ CREATE TABLE IF NOT EXISTS appointments (
 )
 ''')
 
+cursor.execute('''
+CREATE TABLE IF NOT EXISTS medications (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    for_disease TEXT NOT NULL,
+    type TEXT NOT NULL,
+    dosage TEXT NOT NULL,
+    ingredients TEXT NOT NULL,
+    administration TEXT NOT NULL,
+    adverse_effects TEXT NOT NULL
+)
+''')
+
+
 # Adaugă date inițiale (opțional)
 cursor.execute("INSERT INTO patients (first_name, last_name, ssn, date_of_birth, gender, phone, email, address) VALUES ('John', 'Doe', '123-45-6789', '1990-01-01', 'Male', '123-456-7890', 'john.doe@example.com', '123 Main St')")
 cursor.execute("INSERT INTO doctors (first_name, last_name, specialization, phone, email) VALUES ('Jane', 'Smith', 'Cardiologist', '987-654-3210', 'jane.smith@example.com')")

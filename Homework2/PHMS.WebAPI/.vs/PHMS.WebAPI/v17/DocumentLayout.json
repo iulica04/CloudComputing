@@ -1,0 +1,1235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\googlecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\googlecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\consultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\consultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commandhandlers\\consultationcommandhandler\\updateconsultationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\consultationcommandhandler\\updateconsultationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\medicalconditionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\medicalconditionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\medicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\medicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\services\\googlecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\googlecalendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\services\\validationtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\validationtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\services\\medicationexternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\medicationexternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\controllers\\medicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\controllers\\mediccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\controllers\\mediccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\controllers\\medicalconditioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\controllers\\medicalconditioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\entities\\externalmedication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\externalmedication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\entities\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commandhandlers\\consultationcommandhandler\\createconsultationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\consultationcommandhandler\\createconsultationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\controllers\\iauthorizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\controllers\\iauthorizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\services\\imedicationexternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\services\\imedicationexternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\repositories\\igooglecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\igooglecalendarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\consultationcommands\\createconsultationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\consultationcommands\\createconsultationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\phms\\credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{885DB68A-E95F-44E9-8D70-2FB7C73EE617}|PHMS\\PHMS.csproj|solutionrelative:phms\\credentials.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\medicationcommands\\deletemedicationbyidcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\medicationcommands\\deletemedicationbyidcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\medicationcommands\\deletemedicationbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\medicationcommands\\deletemedicationbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\queries\\consultationsqueries\\getconsultationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\consultationsqueries\\getconsultationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\repositories\\imedicalconditionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\imedicalconditionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\mediccommands\\createmediccommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\mediccommands\\createmediccommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA9E27-FA0A-46A8-9B72-CF05F4D74A71}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\dtos\\medicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\dtos\\medicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\queries\\medicationqueries\\getallmedicationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\medicationqueries\\getallmedicationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\enums\\medicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\medicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\entities\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\medication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\entities\\passwordresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\passwordresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\entities\\medicalcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\medicalcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\queryhandlers\\medicationqueryhandlers\\getexternalmedicationbyconditionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\medicationqueryhandlers\\getexternalmedicationbyconditionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\queries\\medicationqueries\\getexternalmedicationbyconditionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\medicationqueries\\getexternalmedicationbyconditionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\dtos\\externalmedicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\dtos\\externalmedicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\queries\\medicationqueries\\getmedicationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\medicationqueries\\getmedicationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\repositories\\imedicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\imedicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\services\\ivalidationtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\services\\ivalidationtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commandhandlers\\medicationcommandhandlers\\updatemedicationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\medicationcommandhandlers\\updatemedicationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commandhandlers\\medicationcommandhandlers\\deletemedicationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\medicationcommandhandlers\\deletemedicationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commandhandlers\\medicationcommandhandlers\\createmedicationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\medicationcommandhandlers\\createmedicationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commandhandlers\\treatmentcommandhandlers\\createtreatmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\treatmentcommandhandlers\\createtreatmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\medicationcommands\\createmedicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\medicationcommands\\createmedicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commandhandlers\\medicalconditioncommandhandlers\\createmedicalconditioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\medicalconditioncommandhandlers\\createmedicalconditioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\dtos\\treatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\dtos\\treatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\dtos\\medicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\dtos\\medicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\treatmentcommands\\createtreatmentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\treatmentcommands\\createtreatmentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\treatmentcommands\\createtreatmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\treatmentcommands\\createtreatmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\medicationcommands\\updatemedicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\medicationcommands\\updatemedicationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\treatmentcommands\\updatetreatmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\treatmentcommands\\updatetreatmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\treatmentcommands\\treatmentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\treatmentcommands\\treatmentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\treatmentcommands\\updatetreatmentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\treatmentcommands\\updatetreatmentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commands\\treatmentcommands\\treatmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\treatmentcommands\\treatmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\dtos\\medicalconditiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\dtos\\medicalconditiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\application\\use cases\\commandhandlers\\treatmentcommandhandlers\\updatetreatmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E011760-5F7D-48DB-AFFD-82EF549EE5AB}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\treatmentcommandhandlers\\updatetreatmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Migrations\\20250317140529_RefactorMedications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250317140529_RefactorMedications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Migrations\\20250317123622_RefactorMedications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250317123622_RefactorMedications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Migrations\\20250317123119_RefactorTreatments-Medications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250317123119_RefactorTreatments-Medications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\entities\\medic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\medic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|d:\\cloudcomputing\\homework2\\phms.webapi\\domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4A176D-87B4-4F44-B650-582B042D064E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 557,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "PHMS\\Controllers\\AIController.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\AIController.cs",
+              "RelativeToolTip": "PHMS\\Controllers\\AIController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:46:26.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultationController.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\ConsultationController.cs",
+              "RelativeDocumentMoniker": "PHMS\\Controllers\\ConsultationController.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\ConsultationController.cs",
+              "RelativeToolTip": "PHMS\\Controllers\\ConsultationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:03:37.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultationRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\ConsultationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ConsultationRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\ConsultationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ConsultationRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:36:55.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateConsultationCommandHandler.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\ConsultationCommandHandler\\UpdateConsultationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\ConsultationCommandHandler\\UpdateConsultationCommandHandler.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\ConsultationCommandHandler\\UpdateConsultationCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\ConsultationCommandHandler\\UpdateConsultationCommandHandler.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:58:59.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleCalendarRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\GoogleCalendarRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GoogleCalendarRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\GoogleCalendarRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GoogleCalendarRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:42:49.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicalConditionRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\MedicalConditionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MedicalConditionRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\MedicalConditionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\MedicalConditionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:58:04.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicationRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\MedicationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MedicationRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\MedicationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\MedicationRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:33:10.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoogleCalendarService.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Services\\GoogleCalendarService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GoogleCalendarService.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Services\\GoogleCalendarService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GoogleCalendarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:40:26.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationTokenService.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Services\\ValidationTokenService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ValidationTokenService.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Services\\ValidationTokenService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ValidationTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:40:00.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicationExternalService.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Services\\MedicationExternalService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\MedicationExternalService.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Services\\MedicationExternalService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\MedicationExternalService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:35:12.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedicController.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\MedicController.cs",
+              "RelativeDocumentMoniker": "PHMS\\Controllers\\MedicController.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\MedicController.cs",
+              "RelativeToolTip": "PHMS\\Controllers\\MedicController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswE0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:57:34.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MedicalConditionController.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\MedicalConditionController.cs",
+              "RelativeDocumentMoniker": "PHMS\\Controllers\\MedicalConditionController.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\MedicalConditionController.cs",
+              "RelativeToolTip": "PHMS\\Controllers\\MedicalConditionController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:34:30.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExternalMedication.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\ExternalMedication.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ExternalMedication.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\ExternalMedication.cs",
+              "RelativeToolTip": "Domain\\Entities\\ExternalMedication.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:19:45.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Consultation.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\Consultation.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Consultation.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\Consultation.cs",
+              "RelativeToolTip": "Domain\\Entities\\Consultation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:30:58.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicationController.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\MedicationController.cs",
+              "RelativeDocumentMoniker": "PHMS\\Controllers\\MedicationController.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\MedicationController.cs",
+              "RelativeToolTip": "PHMS\\Controllers\\MedicationController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:32:02.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateConsultationCommandHandler.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\ConsultationCommandHandler\\CreateConsultationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\ConsultationCommandHandler\\CreateConsultationCommandHandler.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\ConsultationCommandHandler\\CreateConsultationCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\ConsultationCommandHandler\\CreateConsultationCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:45:27.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:02:26.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AdminRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\AdminRepository.cs",
+              "RelativeToolTip": "Infrastructure\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:32:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthorizationManager.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\IAuthorizationManager.cs",
+              "RelativeDocumentMoniker": "PHMS\\Controllers\\IAuthorizationManager.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\IAuthorizationManager.cs",
+              "RelativeToolTip": "PHMS\\Controllers\\IAuthorizationManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:32:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\appsettings.json",
+              "RelativeDocumentMoniker": "PHMS\\appsettings.json",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\appsettings.json",
+              "RelativeToolTip": "PHMS\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T06:36:30.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMedicationExternalService.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Services\\IMedicationExternalService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IMedicationExternalService.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Services\\IMedicationExternalService.cs",
+              "RelativeToolTip": "Domain\\Services\\IMedicationExternalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:29:03.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PHMS\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PHMS\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:32:57.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGoogleCalendarRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IGoogleCalendarRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IGoogleCalendarRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IGoogleCalendarRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IGoogleCalendarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:37:37.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T14:08:39.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Program.cs",
+              "RelativeDocumentMoniker": "PHMS\\Program.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\Program.cs",
+              "RelativeToolTip": "PHMS\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:10:44.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateConsultationCommand.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\ConsultationCommands\\CreateConsultationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\ConsultationCommands\\CreateConsultationCommand.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\ConsultationCommands\\CreateConsultationCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\ConsultationCommands\\CreateConsultationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:36:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "credentials.json",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\credentials.json",
+              "RelativeDocumentMoniker": "PHMS\\credentials.json",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\PHMS\\credentials.json",
+              "RelativeToolTip": "PHMS\\credentials.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T20:24:23.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteMedicationByIdCommandValidator.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicationCommands\\DeleteMedicationByIdCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\MedicationCommands\\DeleteMedicationByIdCommandValidator.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicationCommands\\DeleteMedicationByIdCommandValidator.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\MedicationCommands\\DeleteMedicationByIdCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:16:15.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteMedicationByIdCommand.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicationCommands\\DeleteMedicationByIdCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\MedicationCommands\\DeleteMedicationByIdCommand.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicationCommands\\DeleteMedicationByIdCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\MedicationCommands\\DeleteMedicationByIdCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:16:13.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetConsultationByIdQuery.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Queries\\ConsultationsQueries\\GetConsultationByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\ConsultationsQueries\\GetConsultationByIdQuery.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Queries\\ConsultationsQueries\\GetConsultationByIdQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\ConsultationsQueries\\GetConsultationByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T06:10:25.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IMedicalConditionRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IMedicalConditionRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IMedicalConditionRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IMedicalConditionRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IMedicalConditionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:30:23.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateMedicCommand.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicCommands\\CreateMedicCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\MedicCommands\\CreateMedicCommand.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicCommands\\CreateMedicCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\MedicCommands\\CreateMedicCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:56:57.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:39:55.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PasswordResetToken.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\PasswordResetToken.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PasswordResetToken.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\PasswordResetToken.cs",
+              "RelativeToolTip": "Domain\\Entities\\PasswordResetToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:17:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MedicationType.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Enums\\MedicationType.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\MedicationType.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Enums\\MedicationType.cs",
+              "RelativeToolTip": "Domain\\Enums\\MedicationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:48:56.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MedicalCondition.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\MedicalCondition.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\MedicalCondition.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\MedicalCondition.cs",
+              "RelativeToolTip": "Domain\\Entities\\MedicalCondition.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:18:34.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllMedicationsQuery.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Queries\\MedicationQueries\\GetAllMedicationsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\MedicationQueries\\GetAllMedicationsQuery.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Queries\\MedicationQueries\\GetAllMedicationsQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\MedicationQueries\\GetAllMedicationsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:43:06.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MedicationDto.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\MedicationDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\MedicationDto.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\MedicationDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\MedicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:14:28.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Utils\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Utils\\MappingProfile.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Utils\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Utils\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:42:16.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Medication.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\Medication.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Medication.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\Medication.cs",
+              "RelativeToolTip": "Domain\\Entities\\Medication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:17:32.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetExternalMedicationByConditionQueryHandler.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\QueryHandlers\\MedicationQueryHandlers\\GetExternalMedicationByConditionQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\MedicationQueryHandlers\\GetExternalMedicationByConditionQueryHandler.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\QueryHandlers\\MedicationQueryHandlers\\GetExternalMedicationByConditionQueryHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\MedicationQueryHandlers\\GetExternalMedicationByConditionQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:44:35.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetExternalMedicationByConditionQuery.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Queries\\MedicationQueries\\GetExternalMedicationByConditionQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\MedicationQueries\\GetExternalMedicationByConditionQuery.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Queries\\MedicationQueries\\GetExternalMedicationByConditionQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\MedicationQueries\\GetExternalMedicationByConditionQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:43:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ExternalMedicationDto.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\ExternalMedicationDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ExternalMedicationDto.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\ExternalMedicationDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ExternalMedicationDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:24:41.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetMedicationByIdQuery.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Queries\\MedicationQueries\\GetMedicationByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\MedicationQueries\\GetMedicationByIdQuery.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Queries\\MedicationQueries\\GetMedicationByIdQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\MedicationQueries\\GetMedicationByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:43:08.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IPatientRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IPatientRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:30:41.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IAdminRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IAdminRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IAdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:30:43.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IMedicationRepository.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IMedicationRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IMedicationRepository.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Repositories\\IMedicationRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IMedicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:30:25.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IValidationTokenService.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Services\\IValidationTokenService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IValidationTokenService.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Services\\IValidationTokenService.cs",
+              "RelativeToolTip": "Domain\\Services\\IValidationTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:30:13.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\PasswordHasher.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "Domain\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:30:12.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IEmailService.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Domain\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:30:09.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateTreatmentCommandHandler.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\TreatmentCommandHandlers\\CreateTreatmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\TreatmentCommandHandlers\\CreateTreatmentCommandHandler.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\TreatmentCommandHandlers\\CreateTreatmentCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\TreatmentCommandHandlers\\CreateTreatmentCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:13:09.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateMedicationCommandHandler.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\CreateMedicationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\CreateMedicationCommandHandler.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\CreateMedicationCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\CreateMedicationCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:19:45.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateMedicationCommandHandler.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\UpdateMedicationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\UpdateMedicationCommandHandler.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\UpdateMedicationCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\UpdateMedicationCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:41:10.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DeleteMedicationCommandHandler.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\DeleteMedicationCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\DeleteMedicationCommandHandler.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\DeleteMedicationCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\MedicationCommandHandlers\\DeleteMedicationCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:41:07.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateMedicalConditionCommandHandler.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\MedicalConditionCommandHandlers\\CreateMedicalConditionCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\MedicalConditionCommandHandlers\\CreateMedicalConditionCommandHandler.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\MedicalConditionCommandHandlers\\CreateMedicalConditionCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\MedicalConditionCommandHandlers\\CreateMedicalConditionCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:21:34.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateMedicationCommand.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicationCommands\\CreateMedicationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\MedicationCommands\\CreateMedicationCommand.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicationCommands\\CreateMedicationCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\MedicationCommands\\CreateMedicationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:15:56.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:35:11.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TreatmentDto.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\TreatmentDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TreatmentDto.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\TreatmentDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\TreatmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:13:18.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UpdateMedicationCommand.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicationCommands\\UpdateMedicationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\MedicationCommands\\UpdateMedicationCommand.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\MedicationCommands\\UpdateMedicationCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\MedicationCommands\\UpdateMedicationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:16:16.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateTreatmentCommandValidator.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\CreateTreatmentCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\TreatmentCommands\\CreateTreatmentCommandValidator.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\CreateTreatmentCommandValidator.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\TreatmentCommands\\CreateTreatmentCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:20:45.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MedicDto.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\MedicDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\MedicDto.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\MedicDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\MedicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:28:53.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateTreatmentCommand.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\CreateTreatmentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\TreatmentCommands\\CreateTreatmentCommand.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\CreateTreatmentCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\TreatmentCommands\\CreateTreatmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:15:01.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateTreatmentCommand.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\UpdateTreatmentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\TreatmentCommands\\UpdateTreatmentCommand.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\UpdateTreatmentCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\TreatmentCommands\\UpdateTreatmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:15:40.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UpdateTreatmentCommandValidator.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\UpdateTreatmentCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\TreatmentCommands\\UpdateTreatmentCommandValidator.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\UpdateTreatmentCommandValidator.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\TreatmentCommands\\UpdateTreatmentCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:15:37.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TreatmentCommandValidator.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\TreatmentCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\TreatmentCommands\\TreatmentCommandValidator.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\TreatmentCommandValidator.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\TreatmentCommands\\TreatmentCommandValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:15:20.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TreatmentCommand.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\TreatmentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\TreatmentCommands\\TreatmentCommand.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\Commands\\TreatmentCommands\\TreatmentCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\TreatmentCommands\\TreatmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:15:07.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MedicalConditionDTO.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\MedicalConditionDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\MedicalConditionDTO.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\DTOs\\MedicalConditionDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\MedicalConditionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:14:07.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UpdateTreatmentCommandHandler.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\TreatmentCommandHandlers\\UpdateTreatmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\TreatmentCommandHandlers\\UpdateTreatmentCommandHandler.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Application\\Use Cases\\CommandHandlers\\TreatmentCommandHandlers\\UpdateTreatmentCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\TreatmentCommandHandlers\\UpdateTreatmentCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:13:13.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250317123622_RefactorMedications.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Migrations\\20250317123622_RefactorMedications.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250317123622_RefactorMedications.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Migrations\\20250317123622_RefactorMedications.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250317123622_RefactorMedications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:36:23.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250317140529_RefactorMedications.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Migrations\\20250317140529_RefactorMedications.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250317140529_RefactorMedications.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Migrations\\20250317140529_RefactorMedications.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250317140529_RefactorMedications.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:05:29.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250317123119_RefactorTreatments-Medications.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Migrations\\20250317123119_RefactorTreatments-Medications.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250317123119_RefactorTreatments-Medications.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Infrastructure\\Migrations\\20250317123119_RefactorTreatments-Medications.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250317123119_RefactorTreatments-Medications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:31:20.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Medic.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\Medic.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Medic.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\Medic.cs",
+              "RelativeToolTip": "Domain\\Entities\\Medic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:25:04.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:24:38.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Patient.cs",
+              "ToolTip": "D:\\CloudComputing\\Homework2\\PHMS.WebAPI\\Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:20:06.492Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 157,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

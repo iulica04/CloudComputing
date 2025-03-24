@@ -1,0 +1,426 @@
+
+
+.medical-records-container {
+    margin-top: 10%;
+  }
+  
+  .medical-condition {
+    margin: 20px;
+    background-color: #b2bbd2;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .condition-title {
+    background-color: #333953;
+    color: #c6cded;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    text-align: left; /* Aliniați textul la stânga */
+  }
+  
+  .status-genetic {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .treatments-box {
+    background-color: #e0e7ff;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 15px;
+  }
+  
+  .treatments-title {
+    background-color: #333953;
+    color: #c6cded;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    font-size: 1.2em; /* Mai mic decât titlul bolii */
+  }
+  
+  .treatment-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 20px;
+  }
+  
+  .treatment {
+    background-color: #e0e7ff;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .treatment-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .medications {
+    margin-top: 10px;
+  }
+  
+  .medications .section-title {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .medication-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .medication {
+    background-color: #d0d9ff;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    flex: 1 1 calc(33.333% - 10px); /* 3 pe rând */
+    box-sizing: border-box;
+  }
+  
+  .add-medication {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d0d9ff;
+  
+    border-radius: 8px;
+    margin-bottom: 5px;
+    flex: 1 1 calc(33.333% - 10px); /* 3 pe rând */
+    max-width: calc(33.333% - 10px);
+    min-width: calc(33.333% - 10px);
+    box-sizing: border-box;
+  }
+  
+  .add-medication button {
+
+    font-size: 1.5em;
+    background-color:  #d0d9ff;
+    color: rgb(87, 94, 122);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+  }
+
+  .add-medication button:hover {
+    background-color: #333953;
+    color: #d0d9ff;
+  }
+  
+  .add-medication-form {
+    background-color: #d0d9ff;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    flex: 1 1 calc(33.333% - 10px); /* 3 pe rând */
+    max-width: calc(33.333% - 10px);
+    min-width: calc(33.333% - 10px);
+    box-sizing: border-box;
+  }
+  
+  .add-medication-form form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .add-medication-form label {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-medication-form button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-medication-form button[type="button"] {
+    margin-top: 10px;
+    background-color: #333953
+  }
+  
+  .section-title {
+    font-size: 1.5em;
+    text-decoration: underline;
+  }
+  
+  .medical-records-title {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .condition-details-box {
+    background-color: #e0e7ff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+
+
+  
+.add-medication-form {
+  background-color: #d0d9ff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.add-medication-form label {
+  color: #000000;
+}
+
+.add-medication-form input,
+.add-medication-form select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  background-color: #afb6d5;
+  border-color: #333953;
+  font-size: 1rem;
+  color: #000000;
+  height: 40px;
+  box-sizing: border-box;
+}
+
+.add-medication-form button {
+  width: 100%;
+  padding: 10px 20px;
+  background-color: #b9c4d9;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.add-medication-form button:hover {
+  background-color: #9fb8e2;
+  color: #16253d;
+
+}
+
+.medication-navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px; /* Spațiu între butoane și text */
+  margin-bottom: 10px;
+}
+
+.medication-navigation button {
+  padding: 5px 10px;
+  background-color: #333953;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.medication-navigation button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.medication-navigation span {
+  font-size: 1rem;
+  color: #333953;
+}
+
+
+.add-treatment,
+.add-treatment-form {
+  margin-top: 20px;
+}
+
+.add-treatment-form {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  background-color: #d0d9ff;
+  border-radius: 8px;
+  max-width: 500px; /* Lățime maximă a formularului */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adaugă o umbră pentru un efect vizual */
+}
+
+.add-treatment-form .button-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Spațiu între butoane */
+  margin-top: 15px;
+
+}
+
+.add-treatment button{
+  padding: 10px 20px;
+  background-color: #575c79;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 1.3rem;
+}
+
+.add-treatment button:hover {
+  background-color: #333953;
+}
+
+.add-treatment-form button{
+  padding: 10px 20px;
+  background-color: #575c79;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+
+}
+
+.add-treatment-form button[type="button"] {
+  background-color: #f44336;
+}
+
+.add-treatment-form button:hover {
+  background-color: #45a049;
+}
+
+.add-treatment-form button[type="button"]:hover {
+  background-color: #d32f2f;
+}
+
+.add-treatment-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.add-treatment-form input,
+.add-treatment-form select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+.medication-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete-icon {
+  background: none;
+  border: none;
+  color: #f44336;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.delete-icon:hover {
+  color: #d32f2f;
+}
+
+
+/* Stil pentru butonul de adăugare a unei condiții */
+.add-condition {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 30px;
+}
+
+.add-condition button {
+  padding: 10px 20px;
+  background-color: #575c79;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.3rem;
+  width: 100%;
+}
+
+.add-condition button:hover {
+  background-color: #333953;
+}
+
+/* Stil pentru formularul de adăugare a unei condiții */
+.add-condition-form {
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  background-color: #d0d9ff;
+  border-radius: 8px;
+  max-width: 500px; /* Lățime maximă a formularului */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adaugă o umbră pentru un efect vizual */
+}
+
+.add-condition-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.add-condition-form input,
+.add-condition-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.add-condition-form .button-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Spațiu între butoane */
+  margin-top: 15px;
+}
+
+.add-condition-form button {
+  padding: 10px 20px;
+  background-color: #575c79;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  min-width: 100px;
+}
+
+.add-condition-form button[type="button"] {
+  background-color: #f44336;
+}
+
+.add-condition-form button:hover {
+  background-color: #45a049;
+}
+
+.add-condition-form button[type="button"]:hover {
+  background-color: #d32f2f;
+}

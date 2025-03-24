@@ -1,0 +1,12 @@
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\bin\Debug\net8.0\Domain.dll
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\bin\Debug\net8.0\Domain.pdb
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\obj\Debug\net8.0\Domain.dll
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\obj\Debug\net8.0\Domain.pdb
+D:\.NET\PredictiveHealthcareManagementSystem\PHMS.WebAPI\Domain\obj\Debug\net8.0\ref\Domain.dll

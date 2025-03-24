@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PHMS.WebAPI",
+    "\\PHMS.WebAPI\\Application",
+    "\\PHMS.WebAPI\\Infrastructure",
+    "\\PHMS.WebAPI\\Infrastructure\\Persistence"
+  ],
+  "SelectedNode": "\\PHMS.WebAPI\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
